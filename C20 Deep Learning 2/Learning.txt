@@ -1,0 +1,11 @@
+Learned :
+
+1. Forward and Backward Propogation
+2. Loss Functions
+3. Weight and Bias Update
+4. Chain Rule
+5. Vanishing Gradient Problem
+6. ReLU and it's variants
+7. Batch vs Iteration vs Epoch
+9. Optimizers
+10. Modern Variants of GD
