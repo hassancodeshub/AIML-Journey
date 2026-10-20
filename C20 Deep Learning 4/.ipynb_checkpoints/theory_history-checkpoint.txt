@@ -1,0 +1,2 @@
+1. Learned the FNN Theory
+2. Learned the CNN Theory
