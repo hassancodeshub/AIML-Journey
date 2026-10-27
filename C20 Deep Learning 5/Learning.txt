@@ -1,0 +1,5 @@
+Learned :
+
+NLP and It's Techniques.
+
+RNN Architecture
